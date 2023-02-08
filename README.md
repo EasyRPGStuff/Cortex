@@ -16,7 +16,7 @@ A Cortex Prime hack for playing games of cosmic horror in the style of the stori
 # Cortex Prime Directive
 A Cortex Prime hack for playing games in the universe of the Star Trek (or similar setting). Includes ship and ship combat rules that I hope capture the feel of the source material.
 
-# The Antedeluvian Age
+# The Antediluvian Age
 A Cortex Prime hack for playing games of "sword & scorcery" adventures in a lost era millenia before the Great Deluge, when great civilizations spanned the lost continents of Atlantis, Lemuria, and Mu, and strange, now-extinct creatures walked the land. This hack focuses on somewhat antiheroic escapades of the sort one would expect from the likes of Conan, Fafhrd and Grey Mouser, and so on. Characters are pushed by their Drives... similar to Values from the CPGH, but generally more vice than virtue. Sorcery comes at a price, and is generally the domain of antagonists. The magic system is freeform and somewhat of a work in progress.
 
 This may get some setting info beyond the rough sketch above... some day.
