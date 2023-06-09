@@ -1,4 +1,6 @@
-CortexPrimeDirective  is a Cortex Prime RPG hack for playing adventures as members of Starfleet in the Star Trek™ universe. The creator is not affiliated with Paramount Pictures, CBS, or any other copyright or trademark holders.  The creator is not affiliated with Dire Wolf Digital. This is a fan work.
+# Introduction
+
+Cortex Prime Directive is a Cortex Prime RPG hack for playing adventures as members of Starfleet in the Star Trek™ universe. The creator is not affiliated with Paramount Pictures, CBS, or any other copyright or trademark holders.  The creator is not affiliated with Dire Wolf Digital. This is a fan work.
 
 * * *
 
