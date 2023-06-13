@@ -10,6 +10,10 @@ Setting information for these games is limited at this time, players are expecte
 
 If you have a brilliant idea to improve on this stuff, feel free to sumbit a pull request and I'll give it all due consideration. I'll likely commit new hacks from time to time, as I have some works in progress.
 
+
+# Oracle Tests
+I play RPGs solo as well as with a group, and I like to try to use yes/no type oracles that match the gane's resolution mechanics. This is my work-in-progress attempt at one such oracle for Cortex Prime. It handles yes and no questions, along with positive or negative twists in addition to the binary yes/no result... just like the system itself.
+
 # Cthulhu Prime
 A Cortex Prime hack for playing games of cosmic horror in the style of the stories of H.P. Lovecraft et. al. It's a fairly minimal hack using a lot of stock options from the CPGH. This is intentional... I felt that a lot of the stock options worked really well, and little custom rule creation was needed.
 
